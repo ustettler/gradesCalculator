@@ -1,2 +1,2 @@
 # gradesCalculator
-Grades calculator
+Grades calculator (HTML/CSS/JS)
